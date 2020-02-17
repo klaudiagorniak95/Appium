@@ -1,7 +1,7 @@
 ### About
 basic tests written during learning Appium 
 
-### Technologies
+### Setup
 java 1.8.0_232\
 Android Studio 3.5.3\
 node.js 12.16.0\
